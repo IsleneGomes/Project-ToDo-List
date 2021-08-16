@@ -1,0 +1,91 @@
+body {
+  background-color: yellowgreen;
+}
+
+#corpo {
+  background-color: green;
+  border: white solid 5px;
+  border-radius: 30px;
+  width: auto;
+  height: auto;
+}
+
+#comandos {
+  display: inline-block;
+  margin-left: 150px;
+  margin-block-end: 20px;
+}
+
+.completed {
+  text-decoration: line-through;
+}
+
+.itens {
+  background-color: grey;
+}
+
+.itens2 {
+  background-color: green;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
+
+p {
+  text-align: center;
+}
+
+#botoes {
+  margin-left: 80px;
+}
+
+#criar-tarefa {
+  border-radius: 30px;
+  color : green;
+  background-color: white;
+  font-weight: 700;
+}
+
+#remover-selecionado {
+  border-radius: 30px;
+  color: green;
+  background-color: white;
+  font-weight: 700;
+}
+
+#mover-cima {
+  border-radius: 30px;
+  color: green;
+  background-color: white;
+  font-weight: 700;
+}
+
+#mover-baixo {
+  border-radius: 30px;
+  color: green;
+  background-color: white;
+  font-weight: 700;
+}
+
+#remover-finalizados {
+  border-radius: 30px;
+  color: green;
+  background-color: white;
+  font-weight: 700;
+}
+
+#apaga-tudo {
+  border-radius: 30px;
+  color: green;
+  background-color: white;
+  font-weight: 700;
+}
+
+#salvar-tarefas {
+  border-radius: 30px;
+  color: green;
+  background-color: white;
+  font-weight: 700;
+}
